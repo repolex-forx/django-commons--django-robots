@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/django-commons/django-robots/commit/3976432fbb3dc75672c714381e9dfcb96f996a50",
       "git:hexsha": "3976432fbb3dc75672c714381e9dfcb96f996a50",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "7.0-rc2"
     },
     {
