@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "django-robots",
+  "versions": [
+    {
+      "commit": "3976432fbb3dc75672c714381e9dfcb96f996a50",
+      "tag": "7.0",
+      "parsed_at": "2026-11-02T18:23:54.970491+00:00"
+    }
+  ]
+}
